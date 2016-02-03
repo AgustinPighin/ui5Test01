@@ -1,0 +1,18 @@
+<mvc:View
+        xmlns="sap.m"
+        xmlns:mvc="sap.ui.core">
+
+    <Page title="Pagina Nueva" >
+
+
+        <content>
+            <FlexBox height="500">
+
+
+
+            </FlexBox>
+        </content>s
+
+    </Page>
+
+</mvc:View>
